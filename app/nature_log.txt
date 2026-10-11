@@ -1,0 +1,18 @@
+
+--- 2026-10-11 19:12:45 ---
+Image: bird.jpg
+AI: [!] AI Error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+Make sure Ollama is running in the background (run 'ollama serve' in another terminal).
+
+--- 2026-10-11 19:16:16 ---
+Image: bird.jpg
+AI: [!] AI Error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+Make sure Ollama is running in the background (run 'ollama serve' in another terminal).
+
+--- 2026-10-11 19:24:04 ---
+Image: bird.jpg
+AI:  This is a colorful bird with a blue head and a yellow breast, featuring a black and white pattern around its eye. It's perched on a branch. The bird is a type of songbird, possibly a species of tit (such as a Marsh Tit) or another kind of finch or warbler, which are known for their melodious songs.
+
+Cool fact: Birds like this are often migratory, traveling long distances between their breeding grounds and their wintering areas.
+
+Caution: If you're in the area where this bird is found, be sure to keep a respectful distance when observing wildlife. Approaching birds too closely can cause them stress and might result in them attacking to defend themselves or their offspring. Enjoy your time in nature, but always remember to observe from a distance. 
